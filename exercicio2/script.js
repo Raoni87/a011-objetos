@@ -17,4 +17,4 @@ const filme = {
 /*a)*/ console.log(filme.elenco[0]);
 /*b)*/ console.log(filme.elenco[3]);
 /*c)*/ console.log(filme.transmissoesHoje);
-/*d)*/ console.log(filme.transmissoesHoje[1]);
+/*d)*/ console.log(filme.transmissoesHoje[1].horario);
